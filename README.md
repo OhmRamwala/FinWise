@@ -40,7 +40,7 @@ This project is licensed under the [MIT License](LICENSE).
 For questions, feedback, or support, please contact us at [support@finwise.com](mailto:support@finwise.com).
 
 ## Stay Connected 🌐
--   [Website](https://www.finwise.com)
+-   [Website](https://www.finwise.ai)
 -   [Twitter](https://twitter.com/FinWiseAI)
 -   [Facebook](https://facebook.com/FinWiseAI)
 
