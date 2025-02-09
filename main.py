@@ -15,7 +15,7 @@ def load_data(file_paths):
     return pd.DataFrame(data)
 
 # List of JSON file paths from archive folder
-json_files = ['archive/dev.json', 'archive/test.json', 'archive/train.json']
+json_files = ['./dev.json', './test.json', './train.json']
 
 # Load the data
 df = load_data(json_files)
